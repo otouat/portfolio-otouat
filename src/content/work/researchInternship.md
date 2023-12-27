@@ -1,7 +1,7 @@
 ---
 title: Research Internship @Citi Lab/INSA Lyon
 publishDate: 2019-12-01 00:00:00
-img: /assets/Uni_Passau-Logo.png
+img: /assets/logo-citi-1.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   A research internship on C++ for FPGA.
